@@ -1,0 +1,117 @@
+html {
+    background-color: antiquewhite;
+    
+}
+
+.profilep{
+    height: 18em;
+    width: 19em;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+
+
+.title {
+    display:inline-block;
+    font-family: 'Zen Dots', cursive;
+    position: relative;
+    left:10px
+}
+
+
+.title2 {
+    display:inline-block;
+    font-family: 'Zen Dots', cursive;
+    position: absolute;
+    top: 45px;
+
+}
+
+.skills {
+    font-family: 'Zen Dots', cursive;
+    position: relative;
+    left:5%;
+}
+
+.skills2 {
+    font-family: 'Zen Dots', cursive;
+    position: relative;
+    left:1%;
+}
+
+.nigger {
+    display: inline-block;
+    height: 2px;
+    width: 100%;
+    
+}
+
+.td2 {
+    position: relative;
+    left:40%;
+    font-family: 'Zen Dots', cursive;
+}
+
+.td1 {
+    position: relative;
+    left:60%;
+    font-family: 'Zen Dots', cursive;
+}
+
+.td3 {
+    position: relative;
+    left:75%;
+    font-family: 'Zen Dots', cursive;
+}
+
+
+.purity{
+    position: absolute;
+    left:10%;
+    width:25em;
+    height:25em;
+    top:68%;
+    left:70%;
+    
+}
+
+.profilep2{
+    display:inline-block;
+
+}
+
+.vr {
+    width: 4px;
+    height:700px;
+    display: inline-block;
+    border-color: gray;
+    border: 1px;
+    border-style: inset;
+    position: absolute;
+    left:320px;
+
+}
+
+.icon {
+height:40px;
+width:45px;
+position: relative;
+bottom:-10px;
+
+}
+
+.under {
+    font-family: 'Zen Dots', cursive;
+}
+
+
+.under2 {
+    font-family: 'Zen Dots', cursive;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+p {
+    display: inline-block;
+}
